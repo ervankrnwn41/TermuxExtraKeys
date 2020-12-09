@@ -9,6 +9,5 @@ echo
 echo "[3] Let\'s reload termux"
 termux-reload-settings
 sleep 2
-echo
 echo "Installation Finish!"
 echo "Please, restart your termux!"
